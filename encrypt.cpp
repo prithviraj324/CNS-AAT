@@ -10,10 +10,10 @@ int main() {
     // demo website: https://www.diffchecker.in/
     string c=u8"\u2060";
     s+=c;
-    /*cout<<"size:"<<s.size()<<endl;
+    cout<<"size:"<<s.size()<<endl;
     cout<<"char c1:"<<c<<"-----"<<endl;
     cout<<"string:"<<s;
-    cout<<"printing\u200Cthis \n\n\n";*/
+    cout<<"printing\u200Cthis \n\n\n";
     cout<<"input text";
     return 0;
 }
